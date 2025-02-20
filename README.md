@@ -1,136 +1,74 @@
 # VirtualCreditCards
 
 <div align="center">
-  <img src="assets/bitnob/IMG_1616.webp" alt="Bitnob Logo" width="200"/>
-  <img src="assets/redotpay/IMG_1606.png" alt="Redotpay Logo" width="200"/>
+  <img src="assets/bitnob/IMG_1616.webp" alt="Bitnob Logo" width="100"/>
+  <img src="assets/redotpay/IMG_1606.png" alt="Redotpay Logo" width="100"/>
+
+  ![GitHub stars](https://img.shields.io/github/stars/likhonsheikh54/VirtualCreditCards?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/likhonsheikh54/VirtualCreditCards?style=social)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
 
-Welcome to the **VirtualCreditCards** project! This repository serves as a resource hub for virtual credit card services, focusing specifically on **Redotpay** and **Bitnob**. Our goal is to provide users with the tools and information they need to effectively utilize these services.
+## 🌟 Join Now
 
-## Project Overview
+### Redotpay
+[![Redotpay](https://img.shields.io/badge/Join-Redotpay-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVDhPbZLLK4RhGMb/3zAz49AYZcbSYmqSHA4LC+VQyG1BKQtlY2nhkCX/goWFsiNbSrGglI2FQuRQJIdCSGhqxiFhPM/73ePTp3vq6T2873O4f8/7qsAi0QuBewl8IuCRAY8QmJlE9EDgDhE4QQR2K4/bl8f8tBSz04pRF03B1zS7rjp4XJQW0d8k8IjkD7azuByBIxaCW/rD37+S4uEBnUMxmGoPInC7BE4OgFDIYUFCFLYXJKy3KlxPmOjpFej3A98YOXJhCLwigYGRREQHi3C+2gjXqIGLcQVbMwq3k+TKCWwZAqeBwD4i8MMSgnRuoS/UKoKBPnwQcTSo8DylsN/N5dSHFB8hsF0E9jmB3yrQ0q3wNqtw1K/wMsFGORcLCt8LjP9BMoHtJLB9BPaQQH9EwDK3YatLwdmtcDaucEFkZ5/AR5+muyb2P0xgRwkcPHV0h8A1tqZhv4/ILuIuCfnAR1mWRjVVKMiPV6Hh3Bd4RRXnqmjrF5kDAmtxG69OzWYaFKaQo8Kh2aX6eBLbJTJH3D8kMJqq86GIEUuyyPxsQHwAQeALnwQhM6PglFUAAAAASUVORK5CYII=)](https://wap.redotpay.com/en/invite/?referralId=3mt0n)
+- Web: [https://wap.redotpay.com/en/invite/?referralId=3mt0n](https://wap.redotpay.com/en/invite/?referralId=3mt0n)
+- Short URL: [https://url.hk/i/en/3mt0n](https://url.hk/i/en/3mt0n)
+- Referral Code: `3mt0n`
 
-The VirtualCreditCards project includes images, assets, and code related to virtual credit card functionalities, including features like sending and receiving money globally, online payments with virtual cards, and Bitcoin transactions.
+### Bitnob
+[![Bitnob](https://img.shields.io/badge/Join-Bitnob-green?style=for-the-badge&logo=bitcoin)](https://bitnob.page.link/vdfu)
+- Join Link: [https://bitnob.page.link/vdfu](https://bitnob.page.link/vdfu)
+- Referral Code: `LIKHON`
+- Features: Send/receive money globally, virtual cards, Bitcoin transactions, airtime, utilities, cash-back rewards
 
-## Project Structure
+## 🚀 Overview
+
+A comprehensive resource hub for Redotpay and Bitnob virtual credit card services, featuring tools and guides for global money transfers, online payments, and Bitcoin transactions.
+
+## 📁 Project Structure
 
 ```
-/VirtualCreditCards
-│
+VirtualCreditCards/
 ├── assets/
-│   ├── bitnob/
-│   │   ├── IMG_1622.jpeg
-│   │   ├── IMG_1621.jpeg
-│   │   ├── IMG_1620.jpeg
-│   │   ├── IMG_1619.png
-│   │   ├── IMG_1618.jpeg
-│   │   ├── IMG_1617.jpeg
-│   │   ├── IMG_1615.webp
-│   │   ├── IMG_1616.webp (Bitnob Logo)
-│   │   ├── IMG_1625.jpeg
-│   │   ├── IMG_1624.jpeg
-│   │   └── IMG_1623.jpeg
-│   └── redotpay/
-│       ├── IMG_1613.png
-│       ├── IMG_1614.jpeg
-│       ├── IMG_1612.png
-│       ├── IMG_1611.png
-│       ├── IMG_1610.png
-│       ├── IMG_1609.png
-│       ├── IMG_1606.png (Redotpay Logo)
-│       ├── IMG_1607.jpeg
-│       ├── C863C426-B50E-4444-A117-4D02AEB28109.png
-│       ├── IMG_1605.jpeg
-│       └── IMG_1604.png
-│
-├── css/
-│   └── (CSS files go here)
-│
-├── js/
-│   └── (JavaScript files go here)
-│
-├── LICENSE
-├── README.md
-├── robots.txt
-└── sitemaps.xml
+│   ├── bitnob/       # Bitnob service assets & branding
+│   └── redotpay/     # Redotpay service assets & branding
+├── css/              # Styling files
+├── js/              # Interactive functionality
+└── docs/            # Documentation
 ```
 
-## Directory Details
+[View Full Directory Structure](https://github.com/likhonsheikh54/VirtualCreditCards/tree/main)
 
-### **1. `assets/`**
-- **bitnob/**: Contains images related to Bitnob services and branding.
-  - `IMG_1616.webp`: Official Bitnob logo
-  - Additional images showcasing Bitnob's features and interface
+## 🚀 Quick Start
 
-- **redotpay/**: Contains images related to Redotpay services and branding.
-  - `IMG_1606.png`: Official Redotpay logo
-  - Additional images showcasing Redotpay's features and interface
+```bash
+git clone https://github.com/likhonsheikh54/VirtualCreditCards.git
+cd VirtualCreditCards
+# Open index.html in your browser
+```
 
-### **2. `css/`**
-- Contains stylesheets for the project to enhance the visual presentation.
+## 🤝 Contributing
 
-### **3. `js/`**
-- Contains JavaScript files that provide interactive functionalities to the project.
+1. Fork
+2. Create feature branch (`git checkout -b feature/amazing`)
+3. Commit (`git commit -m 'Add amazing feature'`)
+4. Push (`git push origin feature/amazing`)
+5. Open PR
 
-### **4. Other Files**
-- **LICENSE**: The license file for the repository.
-- **robots.txt**: Manages crawler access to the site.
-- **sitemaps.xml**: Provides search engines with information about the pages on the site.
+## 📞 Connect
 
-## Getting Started
+[![GitHub](https://img.shields.io/badge/GitHub-likhonsheikh54-black?style=flat&logo=github)](https://github.com/likhonsheikh54)
+[![Email](https://img.shields.io/badge/Email-likhonsheikh54%40icloud.com-red?style=flat&logo=gmail)](mailto:likhonsheikh54@icloud.com)
+[![Telegram](https://img.shields.io/badge/Telegram-l1khonsh3ikh-blue?style=flat&logo=telegram)](https://t.me/l1khonsh3ikh)
 
-To get started with the **VirtualCreditCards** project, follow these steps:
+## ☕ Support
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/likhonsheikh54/VirtualCreditCards.git
-   ```
+```
+ETH/BSC/Polygon: 0xb549579a6d5ccfa3f8b143d11bcb4bf1494f7880
+```
 
-2. **Navigate to the Project Directory**
-   ```bash
-   cd VirtualCreditCards
-   ```
-
-3. **Open the Index File**
-   Open `index.html` in your web browser to view the project in action.
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the VirtualCreditCards project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-
-For any inquiries or feedback, please feel free to reach out:
-- GitHub: [@likhonsheikh54](https://github.com/likhonsheikh54)
-- Email: likhonsheikh54@icloud.com
-- Telegram: @l1khonsh3ikh
-
-## Support the Project
-
-If you find this project helpful, consider supporting its development:
-
-- **Ethereum/BSC/Polygon Address**: `0xb549579a6d5ccfa3f8b143d11bcb4bf1494f7880`
-
-Your support helps maintain and improve the VirtualCreditCards project! ☕
-
----
-
-Thank you for visiting the VirtualCreditCards project! We hope you find it useful and informative.
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/likhonsheikh54">likhonsheikh54</a></sub>
+</div>

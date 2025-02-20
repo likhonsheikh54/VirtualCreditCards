@@ -1,7 +1,7 @@
 # VirtualCreditCards
 
 <div align="center">
-  <img src="assets/bitnob/IMG_1616.webp" alt="Bitnob Logo" width="100"/>
+  <img src="assets/bitnob/IMG_1626.png" alt="Bitnob Logo" width="100"/>
   <img src="assets/redotpay/IMG_1606.png" alt="Redotpay Logo" width="100"/>
 
   ![GitHub stars](https://img.shields.io/github/stars/likhonsheikh54/VirtualCreditCards?style=social)
